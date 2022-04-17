@@ -1,0 +1,20 @@
+body {
+    background-color: #F5545C;
+}
+
+.card {
+    margin-left: 40em;
+    margin-right: 40em;
+    margin-top: 15%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    box-shadow: 8px 8px 24px #25233877;
+}
+
+.card-header {
+    background-color: white;
+}
+
+.consulta {
+    width: 100%;
+}
